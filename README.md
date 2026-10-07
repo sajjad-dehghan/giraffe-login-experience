@@ -48,6 +48,14 @@ Designed as a reusable developer-friendly implementation for modern applications
 
 ## The Experience
 
+### Actual browser capture
+
+![Giraffe login running locally](docs/showroom/giraffe-login.jpg)
+
+![Actual side composition in the browser](docs/showroom/giraffe-side.jpg)
+
+Captured from the running React demo on 2026-10-07, not a generated cover. No personal credentials were entered. Start from `web/` with `npm ci` and `npm run dev -- --host 127.0.0.1 --port 4314`, then open `/giraffe-login-experience/`.
+
 The demo ships **two compositions**, switchable live from the pill at the top of the page:
 
 - **Top** — the giraffe stands behind the frosted-glass card, its neck and head rising above it.

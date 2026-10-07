@@ -1,3 +1,41 @@
+<!-- visual-showroom:start -->
+<p align="center">
+  <img src="docs/showroom/readme-banner.svg" alt="Giraffe Login Experience — repository cover" width="100%">
+</p>
+
+<p align="center">
+  <strong>Giraffe Login Experience</strong><br>
+  TOOLS &amp; INTERFACES
+</p>
+
+<p align="center">
+  <a href="https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/giraffe-login-experience"><strong>Explore the showroom ↗</strong></a> ·
+  <a href="https://sajjad-dehghan.github.io/giraffe-login-experience/"><strong>Try the browser edition ↗</strong></a> ·
+  <a href="#implementation--original-documentation">Setup &amp; implementation ↓</a>
+</p>
+
+A playful React login screen with a full-height giraffe that follows your cursor, hides while you type your password and peeks when you show it. My fork swaps the original raccoon for the giraffe and adds a second, side-view layout.
+
+## Visual tour
+
+[![Interactive login · actual browser demo](docs/showroom/readme-view-1.jpg)](https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/giraffe-login-experience)
+
+<p align="center">
+  <a href="https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/giraffe-login-experience"><img src="docs/showroom/readme-view-2.jpg" alt="Side composition and login form" width="96%"></a>
+</p>
+
+1. Interactive login · actual browser demo
+2. Side composition and login form
+
+Real captures or owner-supplied images, not generated product mockups. Demo/local data and edition boundaries are documented below.
+
+## Implementation & original documentation
+
+The existing run instructions, architecture, limitations and credits are preserved below.
+
+---
+<!-- visual-showroom:end -->
+
 <div align="center">
 
 <h1>
